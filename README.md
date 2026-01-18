@@ -1,4 +1,4 @@
-# Secure Java App on AWS
+# Cloud Security Labs
 
-This repository will contain a secure Java application deployed on AWS,
-demonstrating cloud and security best practices.
+This repository will contain hands-on cloud security labs,
+including misconfigurations, risk analysis, and remediation steps.
